@@ -1,11 +1,11 @@
 # RegistrationForm
 
-Here, App.java file is contaion javafx code for registration form.
-This Registration Form contains,.....
-  Name(textField),
-  DateOfBirth(DatePicker),
-  Gender(RadioButtonO),
-  Hobby(CheckBox),
-  Country(ListView),
-  Interest(ChoiceBox),
+Here, App.java file is contaion javafx code for registration form.<br>
+This Registration Form contains,.....<br>
+  Name(textField)<br>
+  DateOfBirth(DatePicker)<br>
+  Gender(RadioButtonO)<br>
+  Hobby(CheckBox)<br>
+  Country(ListView)<br>
+  Interest(ChoiceBox)<br>
   RegisterButton(Button)
